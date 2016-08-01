@@ -20,8 +20,8 @@
     "body-parser": "^1.12.2",
     "cors": "^2.7.1",
     "express": "^4.12.3",
-    "image-size": "^0.5.0",
     "request": "^2.64.0",
+    "request-image-size": "^1.2.2",
     "synchronize": "^0.9.14",
     "underscore": "^1.8.3"
   },
